@@ -13,7 +13,7 @@ CyberLock is a comprehensive cybersecurity tool designed to detect and analyze v
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/cyberlock.git
+   git clone https://github.com/ahamed-ali-git/CyberLock-AI-Powered-Cyber-Threat-Detection.git
    cd cyberlock
    ```
 2. Install the required dependencies:
@@ -25,17 +25,6 @@ CyberLock is a comprehensive cybersecurity tool designed to detect and analyze v
    python Main.py
    ```
 
-## 📁 Project Structure
-```
-cyberlock/
-│── About.py             # Cyber attack encyclopedia with data visualization
-│── demo.py              # URL analysis tool with domain verification
-│── Email_Attack.py      # Email spam and phishing detection module
-│── Main.py              # Main dashboard to access all functionalities
-│── scam_patterns.py     # Scam pattern recognition and hashing
-│── cyberlock ML report.pdf  # Documentation and project report
-└── requirements.txt     # Required dependencies
-```
 
 ## 📖 How It Works
 - **Email Attack Detection**: Extracts text from emails, checks for predefined scam patterns, and classifies them as spam or ham.
